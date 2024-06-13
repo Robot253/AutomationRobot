@@ -5,12 +5,10 @@
 <h2>Welcome to the Robot-Framework</h2>
 
 **Requirement and Prerequisite jars**
-
 1. [Installation-Instructions](https://github.com/robotframework/RIDE/wiki/Installation-Instructions)
 
 Selenium Robot Framework Installation with Python
 To use Robot Framework with Python, you need to install Python, robot framework, Selenium2Library and other supporting libraries. 
-
 Step 1: Install Python 2.7 version
 
         Before installing Robot Framework, you need to install Python 2.5 or later. Robot Framework has not been updated to work with Python 3 or above, so you should certainly install Python 2.7 version. Visit the link to download and install Python 2.7 version. After installing Python 2.7, add your python installation to your system environment path. 
@@ -132,7 +130,6 @@ xlrd==0.9.4
 xlutils==1.7.1
 xlwt==1.0.0
 yolk==0.4.3
-
 
 **3. Paste chromedriver.exe in Scripts folder for compatibility test**
 
